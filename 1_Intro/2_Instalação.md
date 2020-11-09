@@ -38,6 +38,8 @@ $ sudo apt-get install python3
 
 Para mais informações [clique aqui](https://python.org.br/instalacao-linux/)
 
+## Instalando no MAC
+
 Para instalar o Python em **MAC**, abra o Terminal e verifique se o python 3 já está instalado com:
 
 ```shell
